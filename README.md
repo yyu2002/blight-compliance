@@ -12,7 +12,7 @@ In this project, I use a MLP (Multilayer Perceptron) to predict whether or not a
 
 **Data fields**
 
-train.csv & test.csv
+*train.csv & test.csv*
 
     ticket_id - unique identifier for tickets
     agency_name - Agency that issued the ticket
@@ -26,14 +26,14 @@ train.csv & test.csv
     disposition - Judgment and judgement type
     fine_amount - Violation fine amount, excluding fees
     admin_fee - $20 fee assigned to responsible judgments
-state_fee - $10 fee assigned to responsible judgments
+    state_fee - $10 fee assigned to responsible judgments
     late_fee - 10% fee assigned to responsible judgments
     discount_amount - discount applied, if any
     clean_up_cost - DPW clean-up or graffiti removal cost
     judgment_amount - Sum of all fines and fees
     grafitti_status - Flag for graffiti violations
     
-train.csv only
+*train.csv only*
 
     payment_amount - Amount paid, if any
     payment_date - Date payment was made, if it was received
