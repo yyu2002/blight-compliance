@@ -2,7 +2,8 @@
 
 In this project, I use a MLP (Multilayer Perceptron) to predict whether or not a blight ticket will be paid on time. 
 
-**File descriptions** (Use only this data for training your model!)
+# Data used
+**File descriptions** 
 
     readonly/train.csv - the training set (all tickets issued 2004-2011)
     readonly/test.csv - the test set (all tickets issued 2012-2016)
