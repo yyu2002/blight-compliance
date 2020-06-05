@@ -1,6 +1,7 @@
 # blight-compliance
 
-In this project, I use a MLP (Multilayer Perceptron) to predict whether or not a blight ticket will be paid on time. 
+In this project, I create a MLP (Multilayer Perceptron) model that predicts whether or not a blight ticket will be paid on time. After using the AUC evaluation metric on the performance, the AUC value is around .75 with the current parameters on the classifier. The predictions are given as a Pandas Series of probabilities that corresponding blight tickets will be paid on time.
+
 
 # Data used
 **File descriptions** 
