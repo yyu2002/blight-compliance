@@ -10,8 +10,6 @@ In this project, I use a MLP (Multilayer Perceptron) to predict whether or not a
     readonly/addresses.csv & readonly/latlons.csv - mapping from ticket id to addresses, and from addresses to lat/lon coordinates. 
      Note: misspelled addresses may be incorrectly geolocated.
 
-<br>
-
 **Data fields**
 
 train.csv & test.csv
