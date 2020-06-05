@@ -75,3 +75,5 @@ def blight_model():
     
     return test_df['compliance'] 
 
+
+blight_model()
